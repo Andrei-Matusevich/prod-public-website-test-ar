@@ -29,9 +29,9 @@ export default function RootLayout({
                 className={`${geistSans.variable} ${geistMono.variable} antialiased`}
             >
                 <Script
-                    src="https://mypersonas-public.s3.amazonaws.com/staging/js/mypersonas.js"
-                    data-integration-id="01K38QSYJ6APXPWC4KDWZ37608"
-                    data-product="authenticated-website"
+                    src="https://cdn.mypersonas.ai/static/js/mypersonas.js"
+                    data-integration-id="01KA968DSBGGH575YGNHT62XM3"
+                    data-product=""
                     data-region="us"
                     defer
                     strategy="afterInteractive"
